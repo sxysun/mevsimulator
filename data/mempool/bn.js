@@ -1,6 +1,8 @@
 // For Node >= v13 / es module environments
 import BlocknativeSdk from 'bnc-sdk'
 import Web3 from 'web3'
+
+
 import WebSocket from 'ws' // only neccessary in server environments
 
 // create options object
